@@ -32,6 +32,8 @@ Load Agents send query to Generator Agents, collect the results and analyses the
 choice of power to buy. Then initiates byt buying process and finally buys the power with minimum
 cost and highest sustainability power rating. 
 
+
+
 Agent communication
 We start by describing the agents communication in our project. Within Jade, agents can communicate
 transparently regardless of whether they live in the same container, in different containers (in the same
@@ -42,6 +44,9 @@ interoperability. An ACL Message contains a number of fields including
 1. The sender
 2. The receiver(s)
 3. The communicative act
+
+![alt-text](https://github.com/msaadsadiq/Multiagent_Power_Grid/blob/master/figures/fig3.png)
+
 ◦ (also called performative) that represents the intention of the sender of the message.
 For instance when an agent sends an IN sends a REQUEST message it wishes the
 receiver(s) to perform an action. FIPA defined 22 communicative acts, each one with
