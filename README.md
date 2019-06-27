@@ -6,6 +6,8 @@ agents (DF). The generator agents (GA) advertise their distributed energy resour
 agent while the load agents (LA) find out the lowest price energy unit with the highest sustainability
 rating, that can be paid for the required Kilo-Watt-Hour (KWH) demand. 
 
+![alt-text](https://github.com/msaadsadiq/Multiagent_Power_Grid/blob/figures/fig5.png)
+
 In the perspective of multi-agent organization and development, our task is to develop a multi-agent
 based distributed power grid. In this distributed Grid there are two parties, people who look for energy
 known as 'Load Agents' and the energy providers that sell power to the distributed grid known as the
